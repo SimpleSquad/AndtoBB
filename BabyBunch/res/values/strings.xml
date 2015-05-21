@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="Baby_Player"> \n\nBaby Player \n\n
+    You can choose over 12 popular nusary rhymes for you or your little one.\n
+    \n Baby Art \n\n
+     You can let your child do what they want .\n Drawing make their imagination go wild .\n
+     \n Choose Colour \n\n
+     Click speak to get a colour . you can repeat it using repeat. \n again click speak to get a new colour \n
+    \n Baby piano \n\n
+    Let the baby make some noise people</string>
+    <string name="musica">Music</string>
+    <string name="rep">Repeat</string>
+    <string name="speak">Speak</string>
+    <string name="stop">Stop</string>
+    <string name="play">Play</string>
+    <string name="pause">Pause</string>
+    <string name="app_name">BabyBunch</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="splash_word">Splash logo</string>
+    <string name="app_version_info">Version 1.0.0\nCopyright © 2015 Simple Squad\nAll Rights</string>
+    <string name="title_activity_main_menu">MainMenu</string>
+    <string name="baby_music">Baby Music Maker</string>
+    <string name="baby_art">Baby Art</string>
+    <string name="baby_colour">Baby Colour Picker</string>
+    <string name="puzzel">Baby Player</string>
+    <string name="help">For Mommy and Daddy</string>
+    <string name="title_activity_piano_screen">PianoScreen</string>
+    <string name="title_activity_choose_color">ChooseColor</string>
+    <string name="title_activity_paint_screen">PaintScreen</string>
+    <string name="start_new">New</string>
+    <string name="brush">Draw</string>
+    <string name="erase">Erase</string>
+    <string name="save">Save</string>
+    <string name="paint">Paint</string>
+    <string name="sml">Small</string>
+    <string name="med">Medium</string>
+    <string name="lrg">Large</string>
+    <string name="abcd">ABCD Song</string>
+    <string name="hakuna">Hakunama tata</string>
+    <string name="ifyouarehappy">If You Are Happy</string>
+    <string name="itsybitsu">Itsy Bitsy Spider</string>
+    <string name="londonbridge">London Bridge</string>
+    <string name="maryhada">Mary Had A Little Lamb</string>
+    <string name="onetwo">One Two Buckle My Shoe</string>
+    <string name="takeme">Take Me Out To A Ball Game</string>
+    <string name="thisoldman">This Old Man</string>
+    <string name="twinkler">Twinkle Twinkle</string>
+    <string name="youaremy">You Are My Sunshine</string>
+    <string name="teapot">Little Teapot</string>
+    <string name="title_activity_baby_player">BabyPlayer</string>
+    <string name="title_activity_helper">Helper</string>
+    <string name="title_activity_chooser_screen">ChooserScreen</string>
+
+</resources>

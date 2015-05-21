@@ -1,0 +1,67 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/mg2"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:layout_centerHorizontal="true"
+    android:layout_centerVertical="true"
+    android:orientation="vertical"
+    tools:context="com.example.babybunch.MainMenu" >
+
+  
+
+        <Button
+            android:id="@+id/button2"
+            android:layout_width="match_parent"
+            android:layout_height="61dp"
+   
+            android:background="@color/baby_lightblue"
+            android:text="@string/baby_art" />
+
+        <Button
+            android:id="@+id/button1"
+            android:layout_width="match_parent"
+            android:layout_height="62dp"
+       
+            android:layout_marginRight="56dp"
+            android:background="@color/baby_purple"
+            android:text="@string/baby_music" />
+
+        <Button
+            android:id="@+id/button3"
+            android:layout_width="match_parent"
+            android:layout_height="65dp"
+ 
+            android:layout_marginRight="30dp"
+            android:background="@color/baby_blue"
+            android:text="@string/baby_colour" />
+
+        <Button
+            android:id="@+id/button4"
+            android:layout_width="match_parent"
+            android:layout_height="66dp"
+            android:background="@color/baby_lightpur"
+            android:text="@string/puzzel" />
+
+        <Button
+            android:id="@+id/button5"
+            android:layout_width="match_parent"
+            android:layout_height="94dp"
+            android:layout_marginTop="16dp"
+            android:text="@string/help" />
+
+        <Button
+            android:id="@+id/musical"
+            style="?android:attr/buttonStyleSmall"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColorHighlight="@color/green"
+            android:layout_marginTop="25dp"
+            android:layout_gravity="center"
+            android:text="@string/musica" />
+
+</LinearLayout>

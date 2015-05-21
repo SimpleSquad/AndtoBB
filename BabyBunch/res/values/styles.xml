@@ -1,0 +1,42 @@
+<resources>
+
+    <!--
+        Base application theme, dependent on API level. This theme is replaced
+        by AppBaseTheme from res/values-vXX/styles.xml on newer devices.
+    -->
+    <style name="AppBaseTheme" parent="Theme.AppCompat.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+
+    <!-- Application theme. -->
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+    <color name="baby_blue">#9999FF</color>
+    <color name="baby_purple">#CC99FF</color>
+    <color name="baby_lightblue">#99CCFF</color>
+    <color name="baby_lightpur">#CCFF66</color>
+    <color name="k1">#3366CC</color>
+    <color name="k2">#FF33FF</color>
+    <color name="k3">#9933FF</color>
+    <color name="k4">#FFFF33</color>
+    <color name="k5">#66FFCC</color>
+    <color name="k6">#33CC66</color>
+    <color name="k7">#666633</color>
+    <color name="k8">#0066FF</color>
+    <color name="k9">#996600</color>
+    <color name="red">#FF0000</color>
+    <color name="yellow">#FFFF00</color>
+    <color name="blue">#0033FF</color>
+    <color name="green">#009900</color>
+    <color name="pink">#FF69B4</color>
+    <color name="purple">#9900FF</color>
+    <color name="black">#000000</color>
+    <color name="brown">#663300</color>
+    <color name="white">#FFFFFF</color>
+
+</resources>
